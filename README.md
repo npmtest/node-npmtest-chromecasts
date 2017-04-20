@@ -1,4 +1,7 @@
-# test coverage for  [chromecasts (v1.9.0)](https://github.com/mafintosh/chromecasts)  [![npm package](https://img.shields.io/npm/v/npmtest-chromecasts.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-chromecasts) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-chromecasts.svg)](https://travis-ci.org/npmtest/node-npmtest-chromecasts)
+# npmtest-chromecasts
+
+#### basic test coverage for  [chromecasts (v1.9.0)](https://github.com/mafintosh/chromecasts)  [![npm package](https://img.shields.io/npm/v/npmtest-chromecasts.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-chromecasts) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-chromecasts.svg)](https://travis-ci.org/npmtest/node-npmtest-chromecasts)
+
 #### Query your local network for Chromecasts and have them play media
 
 [![NPM](https://nodei.co/npm/chromecasts.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/chromecasts)

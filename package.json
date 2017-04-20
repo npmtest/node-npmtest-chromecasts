@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [chromecasts (v1.9.0)](https://github.com/mafintosh/chromecasts) [![npm package](https://img.shields.io/npm/v/npmtest-chromecasts.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-chromecasts) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-chromecasts.svg)](https://travis-ci.org/npmtest/node-npmtest-chromecasts)",
+    "description": "#### basic test coverage for  [chromecasts (v1.9.0)](https://github.com/mafintosh/chromecasts)  [![npm package](https://img.shields.io/npm/v/npmtest-chromecasts.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-chromecasts) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-chromecasts.svg)](https://travis-ci.org/npmtest/node-npmtest-chromecasts)",
     "devDependencies": {
         "chromecasts": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
@@ -36,5 +36,5 @@
         "start": "PORT=${PORT:-8080} utility2 start test.js",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "0.0.2"
 }
